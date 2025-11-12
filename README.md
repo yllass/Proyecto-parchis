@@ -36,7 +36,7 @@ Los casos de uso reflejan las acciones clave del juego, como conectarse, tirar e
 
 ### 2️⃣ Diagrama de Clases de Análisis
 
-![Diagrama de Clases de Análisis](docs/clases_analisis.png)
+![Image](https://github.com/user-attachments/assets/85fb4439-7979-4580-af14-912374cbb056)
 
 **Descripción:**
 Este diagrama identifica las clases y responsabilidades en el análisis del sistema, separando lógica, presentación y comunicación.  
@@ -54,7 +54,7 @@ El objetivo es representar **qué hace cada componente** sin entrar aún en deta
 
 ### 3️⃣ Diagrama de Secuencia (Análisis)
 
-![Diagrama de Secuencia - Análisis](docs/secuencia_analisis.png)
+![Image](https://github.com/user-attachments/assets/865201cf-0cbb-4be1-b83c-d298086e0733)
 
 **Descripción:**
 Este diagrama describe el flujo general del caso de uso “Tirar dado y mover ficha”.  
@@ -64,7 +64,7 @@ Muestra cómo las clases interactúan entre sí desde que el jugador lanza el da
 
 ### 4️⃣ Diagrama de Clases de Diseño
 
-![Diagrama de Clases de Diseño](docs/clases_diseno.png)
+![Image](https://github.com/user-attachments/assets/c3959096-734d-4dab-85d8-3ead47d46644)
 
 **Descripción:**
 Representa la estructura final del sistema según la implementación del patrón Blackboard.  
@@ -74,7 +74,7 @@ Aquí se detallan los módulos de conocimiento, los controladores y las relacion
 
 ### 5️⃣ Diagrama de Secuencia (Diseño)
 
-![Diagrama de Secuencia - Diseño](docs/secuencia_diseno.png)
+![Image](https://github.com/user-attachments/assets/a5d2005a-f7f9-493c-9e6b-1963374d5056)
 
 **Descripción:**
 Este diagrama ilustra cómo las clases del diseño colaboran en tiempo de ejecución.  
