@@ -13,7 +13,7 @@ A continuación se muestran los **5 diagramas UML** con sus respectivas descripc
 
 ### 1️⃣ Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](docs/casos_de_uso.png)
+![Image](https://github.com/user-attachments/assets/2c5e390d-7d9f-4e8b-84d5-ec98eff00c2c)
 
 **Descripción:**
 Este diagrama representa las interacciones principales entre los **jugadores** y el **sistema**.  
