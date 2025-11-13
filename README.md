@@ -79,3 +79,5 @@ Aquí se detallan los módulos de conocimiento, los controladores y las relacion
 **Descripción:**
 Este diagrama ilustra cómo las clases del diseño colaboran en tiempo de ejecución.  
 Desde la acción del jugador hasta la actualización visual, pasando por la comunicación servidor-cliente y la actualización del Blackboard.
+
+📁 Vizualizar codigo cliente main https://github.com/yllass/Proyecto-parchis/blob/03e4b08601d52c618fb15c9d8aa910f2cfbe1979/Proyecto_Parchis/src/main/java/cliente/ClienteMain.java
